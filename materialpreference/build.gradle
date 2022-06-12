@@ -1,7 +1,8 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
+apply plugin: 'maven-publish'
 
-group = 'com.anggrayudi'
+group = 'com.github.cooldien'
 version = "$MATERIAL_PREFERENCE_VERSION"
 
 android {

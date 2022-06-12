@@ -1,7 +1,7 @@
 apply plugin: 'java-library'
 apply plugin: 'kotlin'
 
-group = 'com.anggrayudi'
+group = 'com.github.cooldien'
 version = "$PROCESSOR_VERSION"
 archivesBaseName = 'materialpreference-api'
 

@@ -9,7 +9,7 @@ ext {
 
     // Project
     VCS_URL = "https://github.com/anggrayudi/MaterialPreference.git"
-    GROUP = "com.anggrayudi"
+    GROUP = "com.github.cooldien"
 
     // POM Project
     POM_URL = "https://github.com/anggrayudi/MaterialPreference"

@@ -52,14 +52,14 @@ dependencies {
 //    api("com.anggrayudi:storage:0.6.0-SNAPSHOT") { changing = true }
 }
 
-ext {
-    // POM
-    POM_ARTIFACT_ID = archivesBaseName
-    VERSION_NAME = version
-
-    POM_NAME = archivesBaseName
-    POM_PACKAGING = 'aar'
-    POM_DESCRIPTION = 'A library designed to replace default preferences on Android framework with something beauty.'
-}
-
-apply plugin: "com.vanniktech.maven.publish"
+//ext {
+//    // POM
+//    POM_ARTIFACT_ID = archivesBaseName
+//    VERSION_NAME = version
+//
+//    POM_NAME = archivesBaseName
+//    POM_PACKAGING = 'aar'
+//    POM_DESCRIPTION = 'A library designed to replace default preferences on Android framework with something beauty.'
+//}
+//
+//apply plugin: "com.vanniktech.maven.publish"

@@ -18,14 +18,14 @@ compileTestKotlin {
     }
 }
 
-ext {
-    // POM
-    POM_ARTIFACT_ID = archivesBaseName
-    VERSION_NAME = version
+//ext {
+//    // POM
+//    POM_ARTIFACT_ID = archivesBaseName
+//    VERSION_NAME = version
+//
+//    POM_NAME = archivesBaseName
+//    POM_PACKAGING = 'jar'
+//    POM_DESCRIPTION = 'Annotation processor API for library MaterialPreference.'
+//}
 
-    POM_NAME = archivesBaseName
-    POM_PACKAGING = 'jar'
-    POM_DESCRIPTION = 'Annotation processor API for library MaterialPreference.'
-}
-
-apply plugin: "com.vanniktech.maven.publish"
+//apply plugin: "com.vanniktech.maven.publish"

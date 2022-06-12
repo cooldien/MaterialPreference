@@ -4,6 +4,12 @@
     <dimen name="preference_seekbar_padding_end">22dp</dimen>
     <!-- The width of the TextView indicating the current value of the SeekBarPreference -->
 
+    <dimen name="preferenceCategoryMarginHorizontal">10dp</dimen>
+    <dimen name="preferenceCategoryMarginBottom">6dp</dimen>
+    <dimen name="rounded_corner_radius">8dp</dimen>
+    <dimen name="preferenceScrollViewMarginTop">10dp</dimen>
+    <dimen name="preferenceScrollViewMarginBottom">5dp</dimen>
+
     <dimen name="preferenceMinHeight">54dp</dimen>
     <dimen name="preferenceHorizontalMargin">15dp</dimen>
     <dimen name="preferenceSummaryMaxWidth">100dp</dimen>
